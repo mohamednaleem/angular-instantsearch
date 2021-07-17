@@ -91,7 +91,7 @@
   },
   "dependencies": {
     "algoliasearch": "^3.29.0",
-    "algoliasearch-helper": "^2.26.1",
+    "algoliasearch-helper": "^3.0.0",
     "instantsearch.css": "^7.0.0",
     "instantsearch.js": "^2.8.0",
     "lodash": "^4.17.10",
